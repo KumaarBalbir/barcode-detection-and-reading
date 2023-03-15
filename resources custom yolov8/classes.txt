@@ -1,0 +1,3 @@
+Item
+QR_code
+Bar_code
