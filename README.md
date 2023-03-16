@@ -3,7 +3,7 @@
 The following repository is a result of assignment provided by the Robotics and Warehouse automation company Mowito. 
 
 ## Detects the products/items and barcode or QR code in images using opencv,pyzbar & YOLOv8.
-For detailed approach, please visit here (currently updating the document):
+For detailed approach, please visit here:
 <a href="https://docs.google.com/document/d/1AV1Bz4Qp4_dcAgq6n8fidlKm4TV8mltx9AX2zrdbciQ/edit?usp=sharing" target="_blank">Google doc</a>
 
 ### a. Key results 
@@ -26,7 +26,7 @@ For detailed approach, please visit here (currently updating the document):
 * Clone this repository or download it. 
 * make a virtual environment in python 3.7
 * install the all libraries reqirements.txt
-* go to yolo_custom.py and run it
+* Run yolo_custom.py file.
 * You will see the 2 window as outcome: one will be input image.. another one will be output image..
 
 
