@@ -1,6 +1,5 @@
-# barcode-detection-and-reading--Mowito
-#### Note: Checkout the master branch. As of now, all the code is committed in that branch and is not merged to main.
-The following repository is a result of assignment provided by the Robotics and Warehouse automation company Mowito. 
+# barcode-detection-and-reading
+#### Note: Checkout the master branch. As of now, all the code is committed in that branch and is not merged to main. 
 
 ## Detects the products/items and barcode or QR code in images using opencv,pyzbar & YOLOv8.
 For detailed approach, please visit here:
